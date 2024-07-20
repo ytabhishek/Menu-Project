@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+ .background img{
+    width: 1525px;
+} 
+.menu_bar ul li{
+    display: inline;
+    text-align: center;
+    width: 200px;
+    padding-left: 237px;
+    font-size: 28px;
+
+}
+.menu_bar{
+    margin-top: -1880px;
+
+}
+.container h1{
+    color: white;
+    font-size: 66px;
+}
+
+.container{
+    margin-left: 165px;
+  margin-top: 180px;
+
+}
+.form_group input{
+    font-size: 30px;
+  width: 750px;
+  text-align: center;
+  border: 4px solid #272020fc;
+  border-radius: 16px;
+}
+.btn{
+    font-size: 30px;
+    width: 750px;
+    text-align: center;
+    border: 4px solid #272020fc;
+    border-radius: 16px;
+  
+
+}
+.btn:hover{
+    color: red;
+    cursor: pointer;
+}
